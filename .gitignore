@@ -1,0 +1,11 @@
+# Ignore a specific file
+secret.txt
+
+# Ignore all .log files
+*.log
+
+# Ignore a whole folder
+tf-TabNet/
+
+# Ignore anything with "temp" in the name
+*temp*
